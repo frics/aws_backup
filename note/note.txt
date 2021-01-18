@@ -1,0 +1,10 @@
+
+
+RDS 접속 명령어 - 
+mysql -u root -p --host recipe-db.cshisawjylld.ap-northeast-2.rds.amazonaws.com
+
+
+Jupyter noteboook
+sudo jupyter-notebook --allow-root
+bg
+disown -h
